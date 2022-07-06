@@ -7,3 +7,12 @@ h1{
 .orange{
     color: orange;
 }
+section{
+    display: flex;
+}
+.half-w{
+    width: 50%;
+}
+.half-w img{
+    width: 40%;
+}
