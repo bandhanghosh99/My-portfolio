@@ -10,13 +10,14 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 80px;
 }
 .half-w{
     width: 60%;
     padding: 5% 0% 0% 10%;
 }
 .half-w img{
-    width: 40%;
+    width: 60%;
     padding: 5% 10%;
     border-radius: 40%;
 }
